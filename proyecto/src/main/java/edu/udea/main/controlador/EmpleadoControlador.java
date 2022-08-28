@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package edu.udea.main.controlador;
 
 
@@ -21,3 +22,9 @@ public  class EmpleadoControlador {
     }
 
 }
+=======
+package edu.udea.main.controlador;
+
+public class EmpleadoControlador {
+}
+>>>>>>> origin/main
