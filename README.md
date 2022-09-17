@@ -23,5 +23,16 @@ Modelar el movimiento de dinero como una clase de Java
 Sprint 3:
 Objetivo: Crear el backend para la aplicación.
 
+Crear controladores REST para la empresa
+Crear controladores REST para los usuarios
+Crear controladores REST para los movimientos de una empresa especifica
+Crear servicios para la empresa
+Crear servicios para el usuario
+
+(Sprint 3 Corregido)
+
+Sprint 4:
+Objetivo: Crear el frontend para la aplicación.
+
 Actualmente en curso
 
