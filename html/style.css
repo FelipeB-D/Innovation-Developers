@@ -1,0 +1,32 @@
+*{
+    transition: all 0.4s;
+}
+body{
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(244, 244, 247);
+    background: linear-gradient(white,rgb(61, 41, 1));
+}
+
+.marco{
+    border-radius: 5px;
+    background-color: rgb(231, 172, 71);
+    padding: 30px;
+    margin: 50px;
+    margin-top: 50px;
+}
+
+.botones{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn{
+    display: inline-block;
+    font-size: larger;
+    padding: 7px;
+}
